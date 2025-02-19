@@ -48,3 +48,17 @@ Footswitchs: https://pt.aliexpress.com/item/1005006163316744.html?spm=a2g0o.orde
 DC Jack: https://pt.aliexpress.com/item/1005003688672124.html?spm=a2g0o.productlist.main.1.54a25e19Bfviuw&algo_pvid=fb2543c1-4ce1-4a58-8e75-69ea1c39653e&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://pt.aliexpress.com/item/1005007539959765.html?spm=a2g0o.productlist.main.3.3159qzdnqzdn4f&algo_pvid=8e4af7bb-433a-41fe-83dc-81d5db868a7f&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+![IMG_0914](https://github.com/user-attachments/assets/048a5c7d-8e96-4c65-a0b4-c79c27f45bb5)
+![20250216![IMG_0916](https://github.com/user-attachments/assets/887d58ba-3446-4fc3-b4b2-036fa0de9351)
+_22135![IMG_0915](https://github.com/user-attachments/assets/b75fcad8-f3a0-421b-b08e-1ca93c3399c3)
+0_HDR]![IMG_0914](https://github.com/user-attachments/assets/bb09610b-53bb-4c4a-b1c5-b47fea3d02c4)
+(h![IMG_0911](https://github.com/user-attachments/assets/2a7b9b55-d4ba-473b-a3ff-c9b1c3666142)
+ttps://github.com/user-attachments/assets/08cebd14-9e26-4207-976c-483e38151782)
+![20250216_221356](https:/![20250216_200608_HDR](https://github.com/user-attachments/assets/7347424d-45b7-4fa0-8928-27331c11a9cf)
+/github.com/user-attachments/assets/8ad4c7be-811b-4174-a05d-395ac9942a2a)
+![20250216_221401_HDR](https://![20250216_200601](https://github.com/user-attachments/assets/6bc20ca4-dee8-4cd9-8b13-0f615bca43fa)
+github.com/user-attachments/assets/c0ec35bd-478b-4e00-a6f1-22a61f2f81f2)
+![20250216_221415](https://github.com/user-attachments/assets/25a2baa5-d5f9-444a-84ed-3e8c08823269)
+![20250216_221335](https://github.com/user-attachments/assets/6f65aa83-09b1-46a4-b2fd-1533bfc3e988)
+
