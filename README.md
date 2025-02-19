@@ -27,7 +27,7 @@ A versão 1 envia as seguintes informações MIDICC:
 * Botão1 - MIDICC69 Valor: 0; 
 * Botão2 - MIDICC69 Valor: 1; 
 * Botão3 - MIDICC69 Valor: 2; 
-* Botão4 - MIDICC52 Valore: 127;
+* Botão4 - MIDICC52 Valor: 127;
 
 
 Os botões 1, 2 e 3 controlam os snapshots da hx stomp. O botão 4 simula o FS4.
