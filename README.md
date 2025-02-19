@@ -50,7 +50,7 @@ DC Jack: https://pt.aliexpress.com/item/1005003688672124.html?spm=a2g0o.productl
 2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://pt.aliexpress.com/item/1005007539959765.html?spm=a2g0o.productlist.main.3.3159qzdnqzdn4f&algo_pvid=8e4af7bb-433a-41fe-83dc-81d5db868a7f&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 ![IMG_0914](https://github.com/user-attachments/assets/048a5c7d-8e96-4c65-a0b4-c79c27f45bb5)
-![20250216![IMG_0916](https://github.com/user-attachments/assets/887d58ba-3446-4fc3-b4b2-036fa0de9351)
+![IMG_0916](https://github.com/user-attachments/assets/887d58ba-3446-4fc3-b4b2-036fa0de9351)
 ![IMG_0915](https://github.com/user-attachments/assets/b75fcad8-f3a0-421b-b08e-1ca93c3399c3)
 ![IMG_0914](https://github.com/user-attachments/assets/bb09610b-53bb-4c4a-b1c5-b47fea3d02c4)
 ![IMG_0911](https://github.com/user-attachments/assets/2a7b9b55-d4ba-473b-a3ff-c9b1c3666142)
