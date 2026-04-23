@@ -35,6 +35,7 @@ Os botões 1, 2 e 3 controlam os snapshots da hx stomp. O botão 4 simula o FS4.
 
 ## Peças/Parts:
 
+
 Arduino: https://s.click.aliexpress.com/e/_oooeiBL
 
 Box/Caixa: https://s.click.aliexpress.com/e/_olcOq85
@@ -47,8 +48,7 @@ Footswitchs: https://s.click.aliexpress.com/e/_oBS3L1b
 
 DC Jack: https://s.click.aliexpress.com/e/_oDkJQrb
 
-2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://s.click.aliexpress.com/e/_onuUPhF
-
+2 220 ohms Resistors/ 2 Resistores de 220 ohms: https://s.click.aliexpress.com/e/_c32AcLnZ
 ![image](https://github.com/user-attachments/assets/10835bba-46c9-439b-85da-7c8f78295809)
 ![s-l1200](https://github.com/user-attachments/assets/0c551811-1650-48e4-bc99-9d7658f44e6e)
 ![IMG_0914](https://github.com/user-attachments/assets/048a5c7d-8e96-4c65-a0b4-c79c27f45bb5)
